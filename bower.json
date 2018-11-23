@@ -1,5 +1,5 @@
 {
-  "name": "pixijs",
+  "name": "purescript-pixijs",
   "ignore": [
     "**/.*",
     "node_modules",
